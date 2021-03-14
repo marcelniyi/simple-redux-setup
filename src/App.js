@@ -1,8 +1,10 @@
+import Details from './components/DetailsComponent'
+
 
 export const App = () => {
   return (
     <div className="App">
-      Sample redux
+      <Details />
     </div>
   );
 }
