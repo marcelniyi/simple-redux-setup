@@ -1,7 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
       Sample redux
@@ -9,4 +7,3 @@ function App() {
   );
 }
 
-export default App;
